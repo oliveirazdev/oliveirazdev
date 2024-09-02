@@ -10,7 +10,7 @@ Bem-vindos ao meu perfil do GitHub!
 
 ```
 ## Projetos em destaque
-**[MathEasy](https://github.com/seu-usuario/projeto-incrivel](https://feoliveira7.github.io/MathEasy/)**
+**[MathEasy](https://github.com/seu-usuario/projeto-incrivel](https://feoliveira7.github.io/MathEasy))**
 
 ## Contato
 📧 [Email](mailto:oliveirafee77@gmail.com)
