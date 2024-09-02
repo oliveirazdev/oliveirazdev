@@ -5,7 +5,7 @@ Bem-vindos ao meu perfil do GitHub!
 👤 - Felipe Oliveira;
 📚 - Senai;
 
-👨🏻‍💻 - Análise e Desenvolvimento de Sistemas 2/4;
+👨🏻‍💻 - Análise e Desenvolvimento de Sistemas;
 🎨 - Front End Developer;
 
 ```
