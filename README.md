@@ -2,8 +2,8 @@
 Bem-vindos ao meu perfil do GitHub!
 
 ```javascript
-👤 - Felipe Oliveira
-📚 - SENAI SP
+👤 - Felipe Oliveira;
+📚 - SENAI SP;
 
 👨🏻‍💻 - Análise e Desenvolvimento de Sistemas;
 🎨 - Front End Developer;
