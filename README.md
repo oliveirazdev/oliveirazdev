@@ -9,7 +9,7 @@ Bem-vindos ao meu perfil do GitHub!
 
 
 ```
-##Projetos em destaque
+## Projetos em destaque
 [MathEasy]([https://github.com/feoliveira7/MathEasy](https://feoliveira7.github.io/MathEasy/))
 
 ## Contato
