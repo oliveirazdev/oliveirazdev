@@ -1,15 +1,17 @@
 ## Olá 👋
 Bem-vindos ao meu perfil do GitHub!
 
-👨🏻‍💻 - Análise e Desenvolvimento de Sistemas.
 ```html
 👨🏻‍💻 - Análise e Desenvolvimento de Sistemas;
 🎨 - Front-End Developer;
-![alt text](http://url/to/img.png)
+
 
 
 
 ```
+
+## Tecnologias
+<img src="https://via.placeholder.com/150" alt="Placeholder Image">
 ## Projetos em destaque
 **[MathEasy](https://feoliveira7.github.io/MathEasy/)**
 
