@@ -10,7 +10,7 @@ Bem-vindos ao meu perfil do GitHub!
 
 ```
 ## Projetos em destaque
-**[Meu Projeto Incrível](https://github.com/seu-usuario/projeto-incrivel)**: Uma aplicação web que ajuda a gerenciar tarefas de forma eficiente.
+**[Meu Projeto Incrível](https://github.com/seu-usuario/projeto-incrivel)**
 
 ## Contato
 📧 [Email](mailto:oliveirafee77@gmail.com)
