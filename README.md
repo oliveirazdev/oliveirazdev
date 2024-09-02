@@ -2,7 +2,7 @@
 Bem-vindos ao meu perfil do GitHub!
 
 👨🏻‍💻 - Análise e Desenvolvimento de Sistemas.
-```css
+```javascript
 👨🏻‍💻 - Análise e Desenvolvimento de Sistemas.
 
 
