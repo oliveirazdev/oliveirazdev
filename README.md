@@ -1,9 +1,9 @@
 ## Olá 👋
 Bem-vindos ao meu perfil do GitHub!
 
-`👨🏻‍💻 - Análise e Desenvolvimento de Sistemas.`
+👨🏻‍💻 - Análise e Desenvolvimento de Sistemas.
 ```css
-a
+👨🏻‍💻 - Análise e Desenvolvimento de Sistemas.
 
 
 ```
