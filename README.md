@@ -1,7 +1,6 @@
 ## Olá 👋
-Bem-vindos ao meu perfil do Github!
+Bem-vindos ao meu perfil do GitHub!
 
-```html
 <span style="color: #ff6347;">👨🏻‍💻 - Análise e Desenvolvimento de Sistemas.</span>
 
 ## Contato
