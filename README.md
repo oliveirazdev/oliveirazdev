@@ -5,6 +5,7 @@ Bem-vindos ao meu perfil do GitHub!
 ```javascript
 👨🏻‍💻 - Análise e Desenvolvimento de Sistemas;
 🎨 - Front-End Developer;
+<img src="https://via.placeholder.com/150" alt="Placeholder Image">
 
 
 
