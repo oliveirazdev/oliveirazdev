@@ -5,7 +5,7 @@ Bem-vindos ao meu perfil do GitHub!
 ```html
 👨🏻‍💻 - Análise e Desenvolvimento de Sistemas;
 🎨 - Front-End Developer;
-<img src="https://via.placeholder.com/150" alt="Placeholder Image">
+![alt text](http://url/to/img.png)
 
 
 
