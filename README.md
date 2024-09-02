@@ -8,7 +8,7 @@ Bem-vindos ao meu perfil do GitHub!
 ```
 
 ## Tecnologias
-<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Logo HTML" style="max-width: 100%;"> <img height="50" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="Logo HTML" style="max-width: 100%;"> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Logo HTML" style="max-width: 100%;">
+<img height="50" src="https://cdn-icons-png.freepik.com/512/1216/1216733.png" alt="Logo HTML" style="max-width: 100%;"> <img height="50" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="Logo HTML" style="max-width: 100%;"> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Logo HTML" style="max-width: 100%;">
 
 
 ## Projetos em destaque
