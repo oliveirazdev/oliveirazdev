@@ -12,6 +12,7 @@ Bem-vindos ao meu perfil do GitHub!
 
 ## Tecnologias
 <img src="https://via.placeholder.com/150" alt="Placeholder Image">
+
 ## Projetos em destaque
 **[MathEasy](https://feoliveira7.github.io/MathEasy/)**
 
