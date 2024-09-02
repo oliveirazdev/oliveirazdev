@@ -5,9 +5,12 @@ Bem-vindos ao meu perfil do GitHub!
 ```javascript
 👨🏻‍💻 - Análise e Desenvolvimento de Sistemas;
 🎨 - Front-End Developer;
-**[Meu Projeto Incrível](https://github.com/seu-usuario/projeto-incrivel)**: Uma aplicação web que ajuda a gerenciar tarefas de forma eficiente.
+
 
 
 ```
+
+**[Meu Projeto Incrível](https://github.com/feoliveira7/MathEasy)**: Uma aplicação web que ajuda a gerenciar tarefas de forma eficiente.
+
 ## Contato
 📧 [Email](mailto:oliveirafee77@gmail.com)
