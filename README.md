@@ -13,7 +13,7 @@ Bem-vindos ao meu perfil do GitHub!
 
 
 ## Projetos em destaque
-**[MathEasy](https://feoliveira7.github.io/MathEasy/)** **[Facebook Cadastro](https://feoliveira7.github.io/Facebook-Cadastro/)**
+**[MathEasy](https://feoliveira7.github.io/MathEasy/)** **|** **[Facebook Cadastro](https://feoliveira7.github.io/Facebook-Cadastro/)** **|** **[GetFree](https://feoliveira7.github.io/GetFree/)**
 
 ## Contato
 📧 [Email](mailto:oliveirafee77@gmail.com)
