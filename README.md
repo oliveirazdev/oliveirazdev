@@ -3,7 +3,7 @@ Bem-vindos ao meu perfil do GitHub!
 
 ```javascript
 👤 - Felipe Oliveira;
-👨🏻‍💻 - Análise e Desenvolvimento de Sistemas;
+👨🏻‍💻 - Desenvolvimento de Sistemas;
 🎨 - Front End Developer;
 
 ```
