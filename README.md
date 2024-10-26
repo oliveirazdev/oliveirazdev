@@ -13,8 +13,10 @@ Bem-vindos ao meu perfil do GitHub!
 
 
 ## Projetos em destaque
+<div style="display: flex; align-items: center;">
+    <img height="18" src="https://feoliveira7.github.io/MathEasy/img/mathIcon.png" style="max-width: 100%;"> **[MathEasy](https://feoliveira7.github.io/MathEasy/)** **|** <img height="18" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" style="max-width: 100%;"> **[Facebook Cadastro](https://feoliveira7.github.io/Facebook-Cadastro/)** **|** <img height="18" src="https://feoliveira7.github.io/GetFree/img/icon2.png" style="max-width: 100%;"> **[GetFree](https://feoliveira7.github.io/GetFree/)** **|** <img height="18" src="https://raw.githubusercontent.com/feoliveira7/APIs/main/img/Design%20sem%20nome%20(6).png" style="max-width: 100%;"> **[Minhas APIs](https://feoliveira7.github.io/TechSolutions/)**
+</div>
 
-  <img height="18" src="https://feoliveira7.github.io/MathEasy/img/mathIcon.png" style="max-width: 100%;"> **[MathEasy](https://feoliveira7.github.io/MathEasy/)** **|** <img height="18" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" style="max-width: 100%;"> **[Facebook Cadastro](https://feoliveira7.github.io/Facebook-Cadastro/)** **|** <img height="18" src="https://feoliveira7.github.io/GetFree/img/icon2.png" style="max-width: 100%;"> **[GetFree](https://feoliveira7.github.io/GetFree/)** **|** <img height="18" src="https://raw.githubusercontent.com/feoliveira7/APIs/main/img/Design%20sem%20nome%20(6).png" style="max-width: 100%;"> **[Minhas APIs](https://feoliveira7.github.io/TechSolutions/)**
 
 
 
