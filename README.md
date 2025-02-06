@@ -1,6 +1,10 @@
 ## Olá 👋
 Bem-vindos ao meu perfil do GitHub!
 
+## Meu portfólio:
+<img height="18" src="https://raw.githubusercontent.com/feoliveira7/Portfolio/refs/heads/main/images/logo.png" style="max-width: 100%;"> **[Portfólio](https://feoliveira7.github.io/Portfolio/)**
+
+
 ```javascript
 👤 - Felipe Oliveira;
 👨🏻‍💻 - Desenvolvimento de Sistemas;
