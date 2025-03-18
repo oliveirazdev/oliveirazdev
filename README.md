@@ -8,7 +8,7 @@ Bem-vindos ao meu perfil do GitHub!
 ```javascript
 👤 - Felipe Oliveira;
 👨🏻‍💻 - Desenvolvimento de Sistemas;
-🎨 - Front End Developer;
+🎨 - Fullstack Developer;
 
 ```
 
