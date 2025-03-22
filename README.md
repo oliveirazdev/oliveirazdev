@@ -33,4 +33,4 @@ Bem-vindos ao meu perfil do GitHub!
 
 
 ## Contato
-📧 [Email](mailto:oliveirafee77@gmail.com)
+📧 [Email](mailto:oliveirafee77@gmail.com) <img height="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" style="max-width: 100%;"> **[LinkedIn]([https://feoliveira7.github.io/TechSolutions/](https://www.linkedin.com/in/felipeoliveira077/))**
