@@ -41,6 +41,8 @@ Estou sempre em busca de novos desafios e aprendizados, e aqui no GitHub compart
 <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"/> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/> <img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"/> <img height="30" src="https://blog.greggant.com/images/posts/2019-04-25-figma/Figma.png" alt="Figma"/> <img height="30" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="Photoshop"/> <img height="30" src="https://static.wikia.nocookie.net/logopedia/images/0/08/Canva_icon_2021.svg/revision/latest/scale-to-width-down/250?cb=20230218102450" alt="Canva"/>
 
 </div>
+
+
 ---
 
 
