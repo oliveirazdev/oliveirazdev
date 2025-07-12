@@ -78,5 +78,5 @@ Estou sempre em busca de novos desafios e aprendizados, e aqui no GitHub compart
 ---
 
 <p align="center">
-  🧑‍💻 Felipe Oliveira
+  🧑‍💻 <i>- Felipe Oliveira</i>
 </p>
