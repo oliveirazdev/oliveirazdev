@@ -25,7 +25,7 @@ Estou sempre em busca de novos desafios e aprendizados, e aqui no GitHub compart
 
 </div>
 
-<br/>
+
 
 <h3 align="center">Back-End / Banco de dados</h3>
 <div align="center">
@@ -34,7 +34,7 @@ Estou sempre em busca de novos desafios e aprendizados, e aqui no GitHub compart
 
 </div>
 
-<br/>
+
 
 <h3 align="center">Ferramentas</h3>
 <div align="center">
