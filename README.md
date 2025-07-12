@@ -17,7 +17,7 @@ Estou sempre em busca de novos desafios e aprendizados, e aqui no GitHub compart
 
 ### ⚙️ Habilidades & Ferramentas
 
-<h3 align="center">Front-End</h3>
+<h4 align="center">Front-End</h4>
 <div align="center">
 
 <img height="40" src="https://cdn-icons-png.freepik.com/512/1216/1216733.png" alt="Logo HTML" style="max-width: 100%;"> <img height="40" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="Logo CSS" style="max-width: 100%;"> <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Logo JS" style="max-width: 100%;"> <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" /> <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo">
