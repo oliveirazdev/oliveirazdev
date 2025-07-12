@@ -9,8 +9,9 @@ Bem-vindos ao meu perfil do GitHub!
 
 ### 🧑‍💻 Quem sou eu
 
-<p> Me chamo **Felipe Oliveira**, tenho 17 anos e atualmente curso Desenvolvimento de Sistemas no SENAI. Tenho foco em desenvolvimento **front-end**, com conhecimentos em **HTML, CSS e JavaScript**, e também possuo experiência em desenvolvimento **back-end**, utilizando tecnologias como **Node.js, Python** e **Java**, com frameworks como **Express.js** e **React**, além de bancos de dados como **MySQL** e **MongoDB**.
+<p> Me chamo <strong>Felipe Oliveira</strong>, tenho 17 anos e atualmente curso Desenvolvimento de Sistemas no SENAI. Tenho foco em desenvolvimento <strong>front-end</strong>, com conhecimentos em <strong>HTML, CSS e JavaScript</strong>, e também possuo experiência em desenvolvimento <strong>back-end</strong>, utilizando tecnologias como <strong>Node.js, Python</strong> e <strong>Java</strong>, com frameworks como <strong>Express.js</strong> e <strong>React</strong>, além de bancos de dados como <strong>MySQL</strong> e <strong>MongoDB</strong>.  
 Estou sempre em busca de novos desafios e aprendizados, e aqui no GitHub compartilho meus projetos, estudos e tudo que venho construindo ao longo da minha jornada como desenvolvedor. </p>
+
 ---
 
 ### ⚙️ Habilidades & Ferramentas
