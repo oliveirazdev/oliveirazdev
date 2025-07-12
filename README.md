@@ -1,36 +1,78 @@
-## Olá 👋
+<h1 align="center" style="color:#white;">👋 Olá!</h1>
+<p align="center">
 Bem-vindos ao meu perfil do GitHub!
+</p>
 
-## Meu portfólio:
-💼 **[Portfólio](https://felipeJson.github.io/Portfolio/)**
+---
 
 
-```javascript
-👤 - Felipe Oliveira;
-👨🏻‍💻 - Desenvolvimento de Sistemas;
-🎨 - Front-End Developer;
 
-```
+### 🧑‍💻 Quem sou eu
+
+Me chamo **Felipe Oliveira**, tenho 17 anos e atualmente curso Desenvolvimento de Sistemas no SENAI. Tenho foco em desenvolvimento **front-end**, com conhecimentos em **HTML, CSS e JavaScript**, e também possuo experiência em desenvolvimento **back-end**, utilizando tecnologias como **Node.js, Python** e **Java**, com frameworks como **Express.js** e **React**, além de bancos de dados como **MySQL** e **MongoDB**.
+Estou sempre em busca de novos desafios e aprendizados, e aqui no GitHub compartilho meus projetos, estudos e tudo que venho construindo ao longo da minha jornada como desenvolvedor.
+---
+
+### ⚙️ Habilidades & Ferramentas
+
+<p align="center"><strong>Front-End</strong></p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=feoliveira7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+
+<img height="40" src="https://cdn-icons-png.freepik.com/512/1216/1216733.png" alt="Logo HTML" style="max-width: 100%;"> <img height="40" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="Logo CSS" style="max-width: 100%;"> <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Logo JS" style="max-width: 100%;"> <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React Logo">
+
+
 </div>
 
+<br/>
+
+<p align="center"><strong>Back-End e Banco de dados</strong></p>
+<div align="center">
+
+<img height="40" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174925.png?f=webp&w=256" alt="Logo Node" style="max-width: 100%;"> <img height="40" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" alt="Logo Py" style="max-width: 100%;"> <img height="40" src="https://camo.githubusercontent.com/0d4b500c99671bf83bcb747e4f25f3da28765f2bbb4cdd9733c09f9a46381aaa/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" alt="Logo Java" style="max-width: 100%;"> <img height="40" src="https://cdn-icons-png.flaticon.com/512/528/528260.png" alt="MySQL Logo"> <img height="40" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" alt="MongoDB Logo">
+
+</div>
+
+<br/>
+
+<p align="center"><strong>Ferramentas</strong></p>
+<div align="center">
+
+<img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code"/> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/> <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker"/> <img height="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"/> <img height="30" src="https://cdn.worldvectorlogo.com/logos/figma-1.svg" alt="Figma"/> <img height="30" src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" alt="Photoshop"/> <img height="30" src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="Canva"/>
+
+</div>
+---
 
 
+### 📈 Estatísticas do GitHub
 
+<div align="center">
 
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=oliveirazdev&show_icons=true&theme=radical&title_color=1E40AF&icon_color=3B82F6&text_color=BFDBFE&bg_color=00000000)
 
-## Tecnologias
-<img height="40" src="https://cdn-icons-png.freepik.com/512/1216/1216733.png" alt="Logo HTML" style="max-width: 100%;"> <img height="40" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="Logo CSS" style="max-width: 100%;"> <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Logo JS" style="max-width: 100%;"> <img height="40" src="https://cdn.freebiesupply.com/logos/large/2x/python-5-logo-png-transparent.png" alt="Logo Py" style="max-width: 100%;"> <img height="40" src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174925.png?f=webp&w=256" alt="Logo Node" style="max-width: 100%;"> <img height="40" src="https://camo.githubusercontent.com/0d4b500c99671bf83bcb747e4f25f3da28765f2bbb4cdd9733c09f9a46381aaa/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176612f6a6176612d6f726967696e616c2e737667" alt="Logo Java" style="max-width: 100%;"> <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png" alt="Logo Node" style="max-width: 100%;">
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveirazdev&layout=compact&theme=radical&title_color=1E40AF&text_color=BFDBFE&bg_color=00000000)
 
+</div>
 
-## Projetos em destaque
-<img height="18" src="https://feoliveira7.github.io/MathEasy/img/mathIcon.png" style="max-width: 100%;"> **[MathEasy](https://feoliveira7.github.io/MathEasy/)** **|** <img height="18" src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Facebook_Logo_2023.png" style="max-width: 100%;"> **[Facebook Cadastro](https://feoliveira7.github.io/Facebook-Cadastro/)** **|** <img height="18" src="https://feoliveira7.github.io/GetFree/img/icon2.png" style="max-width: 100%;"> **[GetFree](https://feoliveira7.github.io/GetFree/)** **|** <img height="18" src="https://raw.githubusercontent.com/feoliveira7/EcoTour/refs/heads/main/img/logo%20EcoTour.png" style="max-width: 100%;"> **[EcoTour](https://feoliveira7.github.io/EcoTour/)**
- **|** <img height="18" src="https://raw.githubusercontent.com/feoliveira7/APIs/main/img/Design%20sem%20nome%20(6).png" style="max-width: 100%;"> **[Minhas APIs](https://feoliveira7.github.io/TechSolutions/)** **|** <img height="18" src="https://raw.githubusercontent.com/feoliveira7/TeraShop/refs/heads/main/img/iconTeraShop2.png" style="max-width: 100%;"> **[TeraShop](https://feoliveira7.github.io/TeraShop/)** **|** <img height="18" src="https://raw.githubusercontent.com/feoliveira7/LedControl/refs/heads/main/img/lampada2.png" style="max-width: 100%;"> **[LedControl](https://feoliveira7.github.io/LedControl/)** **|** <img height="18" src="https://raw.githubusercontent.com/feoliveira7/chronus-teste/refs/heads/main/images/diamond.png" style="max-width: 100%;"> **[CHRONUS](https://feoliveira7.github.io/chronus-teste/)**
+---
 
+### 🤝 Entre em contato comigo
 
+<div align="center">
 
+<a href="mailto:oliveirafee77@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-3B82F6?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/felipeoliveiradl/">
+  <img src="https://img.shields.io/badge/-LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/oliveirazdev">
+  <img src="https://img.shields.io/badge/-GitHub-3B82F6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
+</div>
 
-## Contato
-📧 [Email](mailto:oliveirafee77@gmail.com) <img height="18" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" style="max-width: 100%;"> **[LinkedIn](https://www.linkedin.com/in/felipeoliveira077/)**
+---
+
+<p align="center">
+  🧑‍💻 Felipe Oliveira
+</p>
