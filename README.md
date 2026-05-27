@@ -9,7 +9,7 @@ Bem-vindos ao meu perfil do GitHub!
 
 ### 🧑‍💻 Quem sou eu
 
-<p> Me chamo <strong>Felipe Oliveira</strong>, tenho 18 anos, sou graduando em <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong> e possuo formação técnica pelo <strong>SENAI</strong> em Desenvolvimento de Sistemas. Atualmente trabalho no <strong>Grupo Semar</strong> com foco em <strong>RPA</strong> (Automação de Processos), e também possuo experiência em desenvolvimento <strong>front-end</strong> (HTML, CSS, JavaScript, React, React Native) e <strong>back-end</strong> (Node.js, Python, Java, Express.js), além de bancos de dados como <strong>MySQL</strong> e <strong>MongoDB</strong>.
+<p> Me chamo <strong>Felipe Oliveira</strong>, tenho 18 anos, sou graduando em <strong>Análise e Desenvolvimento de Sistemas (ADS)</strong> e possuo formação técnica pelo <strong>SENAI</strong> em <strong>Desenvolvimento de Sistemas.</strong> Atualmente trabalho no <strong>Grupo Semar</strong> como <strong>Desenvolvedor RPA</strong> (Automação de Processos), e também possuo experiência em desenvolvimento <strong>front-end</strong> (HTML, CSS, JavaScript, React, React Native) e <strong>back-end</strong> (Node.js, Python, Java, Express.js), além de bancos de dados como <strong>MySQL</strong> e <strong>MongoDB</strong>.
 <br/>
 Estou sempre em busca de novos desafios e aprendizados, e aqui no GitHub compartilho meus projetos, automações, estudos e tudo que venho construindo ao longo da minha jornada como desenvolvedor. </p>
 
