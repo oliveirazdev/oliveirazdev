@@ -50,10 +50,8 @@ Estou sempre em busca de novos desafios e aprendizados, e aqui no GitHub compart
 ### 📈 Estatísticas do GitHub
 
 <div align="center">
-
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=oliveirazdev&show_icons=true&theme=radical&title_color=1E40AF&icon_color=3B82F6&text_color=BFDBFE&bg_color=00000000)
-
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveirazdev&layout=compact&theme=radical&title_color=1E40AF&text_color=BFDBFE&bg_color=00000000)
+  
+![Linguagens Mais Usadas](https://github-stats-extended.vercel.app/api/top-langs/?username=oliveirazdev&langs_count=4)
 
 </div>
 
